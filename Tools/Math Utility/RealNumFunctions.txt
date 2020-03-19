@@ -1,0 +1,27 @@
+/*
+import java.util.Scanner;
+
+public class RealNumFunctions {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Enter command:");
+        String command = scanner.nextLine();
+        switch (command) {
+            case "prime factorization":
+                System.out.println("Enter number");
+                // int input = scanner.nextInt();
+                // primeFac(input);
+            case "HCF": ; break;
+            case "LCM": ; break;
+            default: System.out.println("Not a valid command!");
+        }
+
+        scanner.close();
+    }
+
+    // public static int[] primeFac() {
+        
+    // }
+}
+
+*/
